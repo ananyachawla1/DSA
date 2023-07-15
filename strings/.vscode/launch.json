@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Lenovo/Desktop/DSA -365 DAYS/strings",
-      "program": "c:/Users/Lenovo/Desktop/DSA -365 DAYS/strings/build/Debug/outDebug",
+      "cwd": "c:/Users/Lenovo/Desktop/DSA -365 DAYS/DSA/strings",
+      "program": "c:/Users/Lenovo/Desktop/DSA -365 DAYS/DSA/strings/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
