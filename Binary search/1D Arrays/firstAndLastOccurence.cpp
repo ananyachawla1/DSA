@@ -10,7 +10,7 @@ public:
      int floor=nums.size();
      while(low<=high)
      {
-         int mid=((low+high)/2);
+         int mid=(low+high)/2;
          if(nums[mid]>=target){
              floor=mid;
              high=mid-1;
@@ -25,7 +25,7 @@ public:
      high=nums.size()-1;
      while(low<=high)
      {
-         int mid=((low+high)/2);
+         int mid=(low+high)/2;
          if(nums[mid]>target){
              ceil=mid;
              high=mid-1;
