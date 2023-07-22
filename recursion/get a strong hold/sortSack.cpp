@@ -15,7 +15,8 @@ void reverse(stack<int> &stack,int x)
     }
 
 }
-void reverseStack(stack<int> &stack) {
+void reverseStack(stack<int> &stack)
+{
     // Write your code here
     if(stack.size()>0)
     {
@@ -24,3 +25,4 @@ void reverseStack(stack<int> &stack) {
         reverseStack(stack);
         reverse(stack,top);
     }
+}
