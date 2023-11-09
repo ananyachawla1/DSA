@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-
+#include<vector.h>
 int dp[100003][4];
 
 int recur(int day, int prevActivity, vector<vector<int>> &points){
